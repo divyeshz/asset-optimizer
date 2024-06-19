@@ -27,8 +27,6 @@ You can install this package via Composer.
 
 ## Usage
 
-### Image Optimization
-
 ```php
 use AssetOptimizer\AssetOptimizer;
 
